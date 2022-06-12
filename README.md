@@ -1,6 +1,8 @@
 # BitmapTextureFont
 A simple Godot plugin to create Bitmap Fonts from sprite sheets! ( Tested with Godot 3.4.2 )
 
+![](/images/screenshot.png)
+
 ## Usage:
 
 1. Install the plugin to your project by:
