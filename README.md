@@ -30,6 +30,7 @@ A simple Godot plugin to create Bitmap Fonts from sprite sheets! ( Tested with G
    - Key: `Size` (String) / Value: `Vector2` [ Size of rectangle from starting position ]
 
 If done correctly, each entry should look like example below:
+
 ![](/images/screenshot_2.png)
 
 ## Tips:
