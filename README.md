@@ -18,7 +18,7 @@ A simple Godot plugin to create Bitmap Fonts from sprite sheets! ( Tested with G
 5. Specify the width and height of the cells in ***Size*** section
 6. Optionally set spacing between characters with the ***Extra Spacing*** section
 7. Optionally set if the font should be uniform or kerned with the ***Monospace*** section
-8. Opitonally set custom character positions and dimensions in the ***Custom Characters*** section
+8. Optionally set custom character positions and dimensions in the ***Custom Characters*** section
 
 ## Setting up Custom Characters:
 
